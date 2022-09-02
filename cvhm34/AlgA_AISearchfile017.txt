@@ -1,0 +1,5 @@
+USER = cvhm34 (Zhenhao Zhao),
+ALGORITHM CODE = GA, NAME OF CITY-FILE = AISearchfile017.txt,
+SIZE = 17, TOUR LENGTH = 1456,
+0,2,1,5,7,14,16,9,4,3,12,11,10,13,8,15,6,
+NOTE = 
